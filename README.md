@@ -16,3 +16,5 @@ I also have a [number of pieces of my own archaeological work](https://carleton-
 ## Exercises
 
 Exercises in this module will involve everything from charts to maps to websites. Stay tuned.
+
+## Tutorials & Resources
