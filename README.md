@@ -1,2 +1,16 @@
-# module5-humanitiesvisualization
-module 5 humanities visualization
+# Humanities Visualization
+
+In this module, we will be exploring the nuts and bolts of visualization. However, we will also be thinking about what it means to visualize 'data' from a _humanities_ perspective. Following Drucker, we're going to imagine what it means to think about our 'data' not as things received (ie, empirically observed) but rather as 'capta', as things taken, transformed.
+
+It means visualizing and dealing with the intepretive process that got us to this point. What's more, we need to be aware of 'screen essentialism' and how it might be blinkering us to the possibilities of what humanities visualization could be.
+
+I will be adding more to this overview throughout the week (this is the *alpha* version of this course, after all), but to begin with, I'd like you to read:
+
++ Drucker, J. "Humanities approaches to graphical display". _DHQ_ 2011.5 [http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html](http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html)
++ Williams, G. "Disability, Universal Design, and the Digital Humanities" _Debates in the Digital Humanities_ 2012. [http://dhdebates.gc.cuny.edu/debates/text/44](http://dhdebates.gc.cuny.edu/debates/text/44)
+
+I also have a number of pieces of my own archaeological work that I think provide examples of how humanistic visualization can be a driver of interpretation and understanding. I will bring these up in class for you to dismember/critique/explore.
+
+## Exercises
+
+Exercises in this module will involve everything from charts to maps to websites. Stay tuned.
