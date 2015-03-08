@@ -9,8 +9,9 @@ I will be adding more to this overview throughout the week (this is the *alpha* 
 + Drucker, J. "Humanities approaches to graphical display". _DHQ_ 2011.5 [http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html](http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html)
 + Williams, G. "Disability, Universal Design, and the Digital Humanities" _Debates in the Digital Humanities_ 2012. [http://dhdebates.gc.cuny.edu/debates/text/44](http://dhdebates.gc.cuny.edu/debates/text/44)
 + Owens, T. "Discovery and Justification Are Different: Notes on Science-ing the Humanities" [http://www.trevorowens.org/2012/11/discovery-and-justification-are-different-notes-on-sciencing-the-humanities/](http://www.trevorowens.org/2012/11/discovery-and-justification-are-different-notes-on-sciencing-the-humanities/)
++ Owens, T. "Defining Data for Humanists: Text, Artifact, Information, or Evidence?" _Journal of Digital Humanities_ 2011 1.1. [http://journalofdigitalhumanities.org/1-1/defining-data-for-humanists-by-trevor-owens/](http://journalofdigitalhumanities.org/1-1/defining-data-for-humanists-by-trevor-owens/)
 
-I also have a number of pieces of my own archaeological work that I think provide examples of how humanistic visualization can be a driver of interpretation and understanding. I will bring these up in class for you to dismember/critique/explore.
+I also have a [number of pieces of my own archaeological work](https://carleton-ca.academia.edu/SMGraham) that I think provide examples of how humanistic visualization can be a driver of interpretation and understanding. I will bring these up in class for you to dismember/critique/explore.
 
 ## Exercises
 
