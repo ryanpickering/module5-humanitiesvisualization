@@ -2,7 +2,7 @@
 
 The exercises in this module are about colour, layout, and manipulating graphics - but not necessarily in that order. 
 
-[Raster v Vector](#Raster-V-Vector) | [Typography](#Typography)
+[Raster v Vector](#raster-V-Vector) | [Typography](#typography)
 
 
 ## Raster v Vector
@@ -48,3 +48,7 @@ Typographic plays an important role in visual communication. It can do everythin
 4. Let's see what we've got. To see the website version of your gh-pages branch, you go to ```<yourusername>.github.io/<reponame>/myfontchoice.html``` <- ie, the final part of the url is the name of the document in your repo. Do that now. You should see a simple webpage, with two very distinctive fonts.
 5. Now: let's slide your font choices into the html. Go to your html page in your gh-pages repo (ie, not the ```github.io``` version, but the ```github.com/<yourusername>/<repo>/myfontchoice.html``` version. Hit the edit button. Look closely at line 6. Do you see my two fonts? Do you see the pipe character between them? That tells google you want *both* fonts. Go look at the google fonts page again to grab the exact name for your fonts (ie, uppercase letters make a difference!) and paste them into line 5 appropriately.
 7. Lines 8 and 14 specify which font to use for headers, and which font to use for body text. Change appropriately. Commit your changes.
+8. Go to the ```github.io``` version of your repository (if you forget the address, you can find it under the 'settings' button on your normal repository page when you're in the gh-pages branch). Reload the page a couple of times to clear the older version you've already looked at and to replace it with your version. Ta da! Not only have you thought carefully about typography and fonts, you've also learned how to serve a webpage from a Github repository.
+
+*Hint* You could use this as the basics of your submission for assessment, for your exercises. Build a webpage, link to your evidence, embed your images... For basic html [here's a really good guide to keep around](http://www.w3schools.com/html/default.asp). 
+
