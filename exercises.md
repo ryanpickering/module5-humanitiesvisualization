@@ -1,11 +1,10 @@
 # Exercises
 
-The exercises in this module are about colour, layout, and manipulating graphics - but not necessarily in that order. 
+The exercises in this module are about colour, layout, and manipulating graphics - but not necessarily in that order. All students must complete the 'Sprucing up a PDF in Inkscape' exercise, as well as the 'Typography', 'Colour', and 'Layout' exercises. Everything after that is optional (including the option to not do them).
 
-[Raster v Vector](#raster-V-Vector) | [Typography](#typography)
+[Sprucing up a PDF in Inkscape](#sprucing-up-a-pdf-in-inkscape) | [Typography](#typography) | [Colour](#colour) | [Layout](#layout) | [More](#more)
 
-
-## Raster v Vector
+### By the way: Raster v Vector
 The first thing to know is that graphic images come in two distince flavours - raster, and vector.
 
 Raster images are composed of pixels, such that if you zoom into them, they become a pointilist blur (if you remember _Ferris Beuller's Day Off_, there's a scene where Cameron stares and stares at a painting, falling into its individual points of colour...). Vector images on the other hand are described by mathematical functions, of lines and arcs and areas. No matter how deep you delve into these kinds of images, the image is always sharp - because the zoom is just another function of the mathematics describing the image.
@@ -59,3 +58,27 @@ The first part of this exercise then is to find a pair and to understand why the
 
 *Hint* You could use this as the basics of your submission for assessment, for your exercises. Build a webpage, link to your evidence, embed your images... For basic html [here's a really good guide to keep around](http://www.w3schools.com/html/default.asp). 
 
+-----
+
+## Colour
+
+
+-----
+
+## Layout
+
+
+-----
+_____
+## More
+
+More resources, tutorials, and things to explore.
+
+
+## Poster Design
+
+
+-----
+
+## Infographics
+[The Difference between Infographics and Visualizations](https://eagereyes.org/blog/2010/the-difference-between-infographics-and-visualization)
