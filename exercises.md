@@ -2,6 +2,9 @@
 
 The exercises in this module are about colour, layout, and manipulating graphics - but not necessarily in that order. 
 
+[Raster v Vector](#Raster-V-Vector) | [Typography](#Typography)
+
+
 ## Raster v Vector
 The first thing to know is that graphic images come in two distince flavours - raster, and vector.
 
@@ -32,3 +35,16 @@ In this first exercise, we will take the plot we generated in Module 4's exercis
 ### Going further
 
 In this [tutorial, you will learn how to load a custom colour palette](http://infoheap.com/create-and-use-color-palettes-in-inkscape/). Why might you want to do that? You should be designing your work so that it is as universally accessible as possible. Many folks are colour-blind. Use [Color-brewer](http://colorbrewer2.org/) to generate a colour-blind safe palette. Then look for the 'GIMP and Inkscape - GIMP color palette for this scheme.' Click on that link, and you'll get a text file with the scheme you generated. Use that scheme to alter the colours on your plot.
+
+-----
+
+## Typography
+
+Typographic plays an important role in visual communication. It can do everything from reduce eyestrain (do a search for 'easiest fonts to read on screen') to communicate power and authority. Is it any wonder that strong bold capitals come to be known as 'Roman'? In this exercise, I want you to read the section on [font choices from the Owl at Purdue](https://owl.english.purdue.edu/owl/resource/705/01/). Then, play some rounds of [Typeconnection](http://www.typeconnection.com/index.php). Pay attention to why - or why not - various pairings work. Then, I want to consider the document you will be preparing for me that accounts for your learning in this course - the document where you choose your best exercises from the modules and explain how your approach to history, data, the digital, etc, has changed over this course. What typographic pair would work best for you? Go to [Google Fonts](https://www.google.com/fonts) and search for a pair that are *suitable for your purpose*. When you find a font you like, click the 'add to collection' button. Then, at the bottom of the screen, you'll see a link for 'use'. Click on this - google will ask you if you want to use any of the variants of the font. Tick off accordingly. Then, do you see the embed code that google provides, and the code to integrate the font into your CSS (stylesheet)? Leave this window open - we're going to use it in a moment.
+
+1. In your repository, click the button beside 'branch'. In the search box that opens, type in ```gh-pages```. This will create a version of your repository that can be served as a website.
+2. You're now in the gh-pages branch. Click on the + sign beside the repository name. This will create a new file in your gh-branch of your repository. Call it ```myfontchoice.html``` <- the .html is important to specify; otherwise your browser will not know how to render your page.
+3. You now need to put some html in there. I've written a simple webpage that will use two fonts from Google Fonts, and then applies the font to my text depending on whether or not it is a header, which you specify like this: ```<h1> this is a header in between header tags </h1>``` or a paragraph, which you specify like this: ```<p>blah blah blah a paragraph of text blah blah blah</p>```. My webpage is [here](/fontexample.html). Copy the html into your new html document.
+4. Let's see what we've got. To see the website version of your gh-pages branch, you go to ```<yourusername>.github.io/<reponame>/myfontchoice.html``` <- ie, the final part of the url is the name of the document in your repo. Do that now. You should see a simple webpage, with two very distinctive fonts.
+5. Now: let's slide your font choices into the html. Go to your html page in your gh-pages repo (ie, not the ```github.io``` version, but the ```github.com/<yourusername>/<repo>/myfontchoice.html``` version. Hit the edit button. Look closely at line 6. Do you see my two fonts? Do you see the pipe character between them? That tells google you want *both* fonts. Go look at the google fonts page again to grab the exact name for your fonts (ie, uppercase letters make a difference!) and paste them into line 5 appropriately.
+7. Lines 8 and 14 specify which font to use for headers, and which font to use for body text. Change appropriately. Commit your changes.
