@@ -17,4 +17,8 @@ In this first exercise, we will take the plot we generated in Module 4's exercis
 2. Download the pdf we generated in R [publication-year.pdf](/publication-year.pdf) 
 3. Open that pdf. It's a pretty plain graphic. Right away there are at least two things we could do to make it more visually appealling. We could change the orientation of the characters in the y-axis to make them more legible. And we could apply a colour scheme that would make our graphic legible to folks with colour-blindness.
 4. Start Inkscape. Click File >> Import >> and then navigate to where you save the 'publication-year.pdf'. Click Ok when you've got it selected. In the next pop-up, just accept the default settings and click 'ok'. Your Inkscape window should now look like this:<br>![inkscape1](/inkscape1.png)
-5. 
+5. The pdf is now a layer in the new image you are creating in Inkscape. You can save this drawing, _with its information about the layers and what is in each one_ by clicking File >> Save As. ([here's my version](/exercise1drawing.svg)). 'SVG' stands for 'scalable vector graphic'.
+6. Do you see the bounding box around the plot? If you grab any of those handles (the arrow things), you can make it bigger or smaller on your sheet. We can't edit any of the other elements yet - we can't change the colour of the bars, or the fonts of the text. We have to tell Inkscape to 'explode' these elements into their own 'objects'. In the menu bar at top, got to Object >> Ungroup. There are now a series of overlapping bounding boxes around each object.
+7. Zoom in (by pressing the + sign on your keyboard) so that you're looking at the numbers of the y-axis. We're going to rotate these by 90 degrees to make them more legible. Select the arrow icon from the toolbar on the left side of the screen.
+8. Click on the '50'. You'll get a bounding box around it. Click Object >> Rotate 90 CW. The 50 is now rotated! Do the same for the other numbers. Save.
+9. 
