@@ -1,10 +1,14 @@
 # Exercises
 
-The exercises in this module are about colour, layout, and manipulating graphics. The first thing to know is that graphic images come in two distince flavours - raster, and vector.
+The exercises in this module are about colour, layout, and manipulating graphics - but not necessarily in that order. 
+
+## Raster v Vector
+The first thing to know is that graphic images come in two distince flavours - raster, and vector.
 
 Raster images are composed of pixels, such that if you zoom into them, they become a pointilist blur (if you remember _Ferris Beuller's Day Off_, there's a scene where Cameron stares and stares at a painting, falling into its individual points of colour...). Vector images on the other hand are described by mathematical functions, of lines and arcs and areas. No matter how deep you delve into these kinds of images, the image is always sharp - because the zoom is just another function of the mathematics describing the image.
 
 Rasters: blocks of colours
+
 Vectors: descriptions of points and arcs
 
 ## Sprucing up a pdf in Inkscape
