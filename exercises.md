@@ -82,3 +82,9 @@ More resources, tutorials, and things to explore.
 
 ## Infographics
 [The Difference between Infographics and Visualizations](https://eagereyes.org/blog/2010/the-difference-between-infographics-and-visualization)
+
+
+## ManyLines
+
+Manylines is an application that allows you to create narratives from network graphs. In essence, you upload a network file in .gexf format (which you can export from Gephi) and it renders it on the screen. There are some layout options to make the graph more intelligible. Then, you take a series of snapshots zoomed in on the graph in different places, and add text to describe what it is that's important about these networks. The app puts a Prezi-like wrapper around your snapshots, and the whole can then be embedded in a website or be used as a standalone website. [Here's my first attempt.](http://tools.medialab.sciences-po.fr/manylines/embed#/narrative/051b0a7a-c1af-458f-b6a1-e3b0964e577f) and here I've embedded it:
+<iframe src="http://tools.medialab.sciences-po.fr/manylines/embed#/narrative/051b0a7a-c1af-458f-b6a1-e3b0964e577f" width="100%" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
