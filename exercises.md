@@ -93,3 +93,7 @@ You can also embed nearly anything in the narrative panels - youtube videos, [ti
 To give this a try, why not use the Texan Correspondence network we generated in earlier modules? Export it in .gexf format from gephi, import to ManyLines, and go! The interface is fairly straightforward. Just follow the prompts. 
 
 **Caveat Utilitor** I don't know how long anything made with ManyLines will live on their website. But, knowing what you know about wget and other tools, do you see how you could archive a copy on your own machine? ManyLines is available on [github](https://github.com/medialab/manylines) so you can certainly use it locally.
+
+## Leaflet
+
+Maps can be created through a variety of services ([tilemill](https://www.mapbox.com/tilemill/), [cartodb](https://cartodb.com/), [mapbox](http://mapbox.com), for instance). These can then be embedded in your webpages or documents. Often, that's enough. But sometimes, you'd like to take control, and keep all the data, all the map, under your own name, in your own webspace. Here is a gentle introduction to using [leaflet.js](/leaflet.md) to make, style, and serve your maps.
