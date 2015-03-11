@@ -17,4 +17,4 @@ I also have a [number of pieces of my own archaeological work](https://carleton-
 
 Exercises in this module focus on concepts of layout, design, colour theory, and so on. See the [exercises page](/exercises.md)
 
-*Please note that your assessment piece regarding all module exercises is due on March 25th*
+*Please note that your assessment piece regarding all module exercises is due on April 1st*
