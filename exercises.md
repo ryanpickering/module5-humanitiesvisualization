@@ -78,6 +78,8 @@ Here's a graphic & a movie to help with the theoretical side of things:
 
 To learn how to style your webpage appropriately, you can [follow this tutorial on CSS from codeacademy.com](http://www.codecademy.com/courses/web-beginner-en-TlhFi/0/1?curriculum_id=50579fb998b470000202dc8b).
 
+[Effective colour contrast](http://www.lighthouse.org/accessibility/design/accessible-print-design/effective-color-contrast)
+
 -----
 
 ## Layout
