@@ -86,7 +86,7 @@ To learn how to style your webpage appropriately, you can [follow this tutorial 
 
 For academic posters in particular, consider [these suggestions from the APA](http://www.apa.org/gradpsych/2011/01/poster.aspx).
 
-In essence, good layout makes your argument legible, intuitive, and reinforces the rhetorical points you are trying to make.
+In essence, good layout makes your argument legible, intuitive, and reinforces the rhetorical points you are trying to make. You should take into account 'principles of universal design' - consider these issues with [powerpoint](http://accessproject.colostate.edu/udl/modules/powerpoint/mod_ppt.php) and with [websites](http://accessproject.colostate.edu/udl/modules/html/mod_html.php) (although some of the technical solutions proposed in those two documents are a bit out of date, the general principles hold!) 
 
 In this exercise, you will design a new poster OR modify an existing poster. You can use either Inkscape or Powerpoint. 
 
