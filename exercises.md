@@ -62,9 +62,9 @@ The first part of this exercise then is to find a pair and to understand why the
 
 ## Colour
 
-There's a lot of bumpf out there on the 'pyschology of colour'. Google it to see what I mean ([here's an example](http://www.youthedesigner.com/graphic-design-resources/infographic-graphic-design-resources/infographic-a-color-guide-for-designers/). A lot of what you see here isn't so much psychology as it is associations (and indeed, western associations, at that). Associations are important of course; you don't want to undermine your message by making some unfortunate connections. 
+There's a lot of bumpf out there on the 'pyschology of colour'. Google it to see what I mean ([here's an example](http://www.youthedesigner.com/graphic-design-resources/infographic-graphic-design-resources/infographic-a-color-guide-for-designers/)). A lot of what you see here isn't so much psychology as it is associations (and indeed, western associations, at that). Associations are important of course; you don't want to undermine your message by making some unfortunate connections. 
 
-+In this exercise, I want you to take the webpage you developed in the previous exercise, and make two versions of it: one, where the colours support the broader message of the page (a prototype for your exercises assessment piece, remember?), and the other where the colours _undermine_ that broader message. Explain, in both cases, how your colour choices enhance/detract.
++ In this exercise, I want you to take the webpage you developed in the previous exercise, and make two versions of it: one, where the colours support the broader message of the page (a prototype for your exercises assessment piece, remember?), and the other where the colours _undermine_ that broader message. Explain, in both cases, how your colour choices enhance/detract.
 
 > alternatively, you can make a one page slide in powerpoint doing the same thing.
 
