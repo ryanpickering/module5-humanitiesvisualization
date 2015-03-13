@@ -125,3 +125,9 @@ To give this a try, why not use the Texan Correspondence network we generated in
 ## Leaflet
 
 Maps can be created through a variety of services ([tilemill](https://www.mapbox.com/tilemill/), [cartodb](https://cartodb.com/), [mapbox](http://mapbox.com), for instance). These can then be embedded in your webpages or documents. Often, that's enough. But sometimes, you'd like to take control, and keep all the data, all the map, under your own name, in your own webspace. Here is a gentle introduction to using [leaflet.js](/leaflet.md) to make, style, and serve your maps. [Here is a template](https://github.com/shawngraham/daea) for mapping with leaflet, drawing all of your point data and ancillary information from a csv file.
+
+## Designing Maps with Processing and Illustrator
+
+Nicolas Felton is a renowned designer; this 90 minute workshop is worth watching and working through. [Skillshare](http://www.skillshare.com/classes/design/Data-Visualization-Designing-Maps-with-Processing-and-Illustrator/1063775924)
+
+Caveat: I do not use processing or illustrator, but processing is free and Inkscape can do many of the things that Illustrator does.
