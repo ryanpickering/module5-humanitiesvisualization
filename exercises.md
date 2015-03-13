@@ -62,11 +62,39 @@ The first part of this exercise then is to find a pair and to understand why the
 
 ## Colour
 
+There's a lot of bumpf out there on the 'pyschology of colour'. Google it to see what I mean ([here's an example](http://www.youthedesigner.com/graphic-design-resources/infographic-graphic-design-resources/infographic-a-color-guide-for-designers/). A lot of what you see here isn't so much psychology as it is associations (and indeed, western associations, at that). Associations are important of course; you don't want to undermine your message by making some unfortunate connections. 
+
++In this exercise, I want you to take the webpage you developed in the previous exercise, and make two versions of it: one, where the colours support the broader message of the page (a prototype for your exercises assessment piece, remember?), and the other where the colours _undermine_ that broader message. Explain, in both cases, how your colour choices enhance/detract.
+
+> alternatively, you can make a one page slide in powerpoint doing the same thing.
+
+*Resources*
+
+Here's a graphic & a movie to help with the theoretical side of things:
+
+![color theory](http://paper-leaf.com/wp-content/uploads/2010/01/ct_1920.jpg)
+
+[Understanding the rules of color, Lynda.com](http://www.lynda.com/Illustrator-tutorials/Understanding-rules-color/161817/177336-4.html)
+
+To learn how to style your webpage appropriately, you can [follow this tutorial on CSS from codeacademy.com](http://www.codecademy.com/courses/web-beginner-en-TlhFi/0/1?curriculum_id=50579fb998b470000202dc8b).
 
 -----
 
 ## Layout
 
+'Layout' can mean different things in different contexts. A general overview on issues in layout is covered by ['What makes design great, Lynda.com](http://www.lynda.com/Illustrator-tutorials/What-makes-design-great/161817/177322-4.html) and ['Exploring principles of layout and composition'](http://www.lynda.com/Illustrator-tutorials/Exploring-principles-layout-composition/161817/177323-4.html)
+
+For academic posters in particular, consider [these suggestions from the APA](http://www.apa.org/gradpsych/2011/01/poster.aspx).
+
+In essence, good layout makes your argument legible, intuitive, and reinforces the rhetorical points you are trying to make.
+
+In this exercise, you will design a new poster OR modify an existing poster. You can use either Inkscape or Powerpoint. 
+
++ Inkscape: download one of the scientific poster templates from [Ugo Sangiorgi](https://github.com/ugosan/svg-conference-poster) (These are developed from [this blog post](http://blog.felixbreuer.net/2010/10/24/poster.html); note his discussion on design). Open it in Inkscape. Make notes in your open notebook: *from the point of view of layout*, what elements of the design work? What aren't working? How would you repurpose this poster to fit the requirements of the assessment exercise [remember, details here](https://github.com/hist3907b-winter2015/syllabus/blob/master/exercise_assessment_guideline.md)? [Help with the basics of Inkscape](https://inkscape.org/en/doc/tutorials/basic/tutorial-basic.en.html). Modify the poster, and upload the svg or pdf or png version to your repository.
+
++ PPT: there's a lot of information out there on making posters with powerpoint. [Read parts 1,2, and 3 here](http://www.makesigns.com/tutorials/scientific-poster-parts.aspx) and then consider [the advice here](http://colinpurrington.com/tips/poster-design). Once you've read and digested, pick a poster from [Pimp my poster](https://www.flickr.com/groups/pimpmyposter/pool/) that strikes use. Make notes in your open notebook: *from the point of view of layout* what elements of the design work? What aren't working? How would you repurpose this posert to fit the requirements ot he assessment exercies [remember, details here](https://github.com/hist3907b-winter2015/syllabus/blob/master/exercise_assessment_guideline.md)? Grab a template from [here](http://colinpurrington.com/tips/poster-design#templates), and use it to prototype a poster that works. Upload the poster as a pdf to your repository.
+
+If you want to explore layout in the context of webpage creation, I would point you to the the roster of lessons at [Codeacademy](http://www.codecademy.com/en/tracks/web). Same instructions: find an existing site that you will consider from the point of view of what works, what doesn't, and use that reflection to guide the construction of your own.
 
 -----
 _____
@@ -96,4 +124,4 @@ To give this a try, why not use the Texan Correspondence network we generated in
 
 ## Leaflet
 
-Maps can be created through a variety of services ([tilemill](https://www.mapbox.com/tilemill/), [cartodb](https://cartodb.com/), [mapbox](http://mapbox.com), for instance). These can then be embedded in your webpages or documents. Often, that's enough. But sometimes, you'd like to take control, and keep all the data, all the map, under your own name, in your own webspace. Here is a gentle introduction to using [leaflet.js](/leaflet.md) to make, style, and serve your maps.
+Maps can be created through a variety of services ([tilemill](https://www.mapbox.com/tilemill/), [cartodb](https://cartodb.com/), [mapbox](http://mapbox.com), for instance). These can then be embedded in your webpages or documents. Often, that's enough. But sometimes, you'd like to take control, and keep all the data, all the map, under your own name, in your own webspace. Here is a gentle introduction to using [leaflet.js](/leaflet.md) to make, style, and serve your maps. [Here is a template](https://github.com/shawngraham/daea) for mapping with leaflet, drawing all of your point data and ancillary information from a csv file.
